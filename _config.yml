@@ -49,8 +49,8 @@ search:
 # Comment
 comment:
     duoshuo: winfan # enter duoshuo shortname here
-    disqus: hexo-theme-icarus # enter disqus shortname here
-    youyan: # enter youyan uid here
+    #disqus: hexo-theme-icarus # enter disqus shortname here
+    #youyan: 2116747 # enter youyan uid here
 
 # Share
 share: jiathis # options: jiathis, bdshare, addtoany, default
